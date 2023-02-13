@@ -19,7 +19,7 @@
     <main>
       <section id="about-me">
         <h2>About Me</h2>
-        <p>Some information about yourself.</p>
+        <p>Glad that you found my page! While you are here, let me introduce myself: I am a proud alumni of both UC Berkeley (Go Bears!) and Duke. Currently, I perform research for the <a href="https://www.cleantech.com/">Cleantech Group</a> where I work in sectors ranging from materials & chemicals to agriculture and food. In the future, I hope to marry my lifelong interest in entrepreneurship with passions for mission-driven service and environmental science! </p>
       </section>
       <section id="my-skills">
         <h2>My Skills</h2>
