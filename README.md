@@ -3,7 +3,7 @@
   <head>
     <style>
   h1 {
-    font-family: Veranda;
+    font-family: 'Veranda', sans-serif;
   }
 </style>
     <meta charset="UTF-8">
