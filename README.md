@@ -2,9 +2,7 @@
 <html>
   <head>
     <style>
-  h1 {
     font-family: 'Veranda', sans-serif;
-  }
 </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
