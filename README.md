@@ -6,7 +6,7 @@
   </head>
   <body>
     <header>
-      <img src="IMG_2441.jpg" alt="Me and a tasty dinner!" align="right" width="200" height="300" style="border-radius:50%">
+      <img src="IMG_2441.jpg" alt="Me and a tasty dinner!" align="right" width="200" height="300" style="border-radius=50%">
       <h1>Howdy! I'm Parker Bovée!</h1>
       <nav>
           <li><a href="#about-me">About Me</a></li>
