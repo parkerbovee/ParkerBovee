@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Personal Website</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
@@ -12,7 +11,7 @@
         <ul>
           <li><a href="#about-me">About Me</a></li>
           <li><a href="#my-skills">My Skills</a></li>
-          <li><a href="#my-projects">My Projects</a></li>
+          <li><a href="#cool-stuff">Cool Stuff</a></li>
           <li><a href="#contact-me">Contact Me</a></li>
         </ul>
       </nav>
@@ -30,10 +29,10 @@
           <li>Skill 3</li>
         </ul>
       </section>
-      <section id="my-projects">
-        <h2>My Projects</h2>
+      <section id="cool-stuff">
+        <h2>Cool Stuff</h2>
         <ul>
-          <li>Project 1</li>
+          <li><a href="https://undergradjournal.history.ucsb.edu/wp-content/uploads/2022/12/1.-Complete-Fall-2022-Issue.Final_.pdf">My latest published work! This one is a historical analysis of artistic censorship and politicization in 20th century Germany</a></li>
           <li>Project 2</li>
           <li>Project 3</li>
         </ul>
