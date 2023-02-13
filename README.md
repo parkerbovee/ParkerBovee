@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-    font-family: 'Veranda', sans-serif;
-</style>
+    <style>font-family: 'Veranda', sans-serif;</style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
