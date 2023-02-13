@@ -32,9 +32,9 @@
       <section id="cool-stuff">
         <h2>Cool Stuff</h2>
         <ul>
-          <li><a href="https://undergradjournal.history.ucsb.edu/wp-content/uploads/2022/12/1.-Complete-Fall-2022-Issue.Final_.pdf">My latest published work! This one is a historical analysis of artistic censorship and politicization in 20th century Germany</a></li>
-          <li>Project 2</li>
-          <li>Project 3</li>
+          <li><a href="https://undergradjournal.history.ucsb.edu/wp-content/uploads/2022/12/1.-Complete-Fall-2022-Issue.Final_.pdf">My latest published work! This one is a historical analysis of artistic censorship and politicization in 20th century Germany.</a></li>
+          <li><a href="https://escholarship.org/uc/item/387259rn">An analysis I did on how cinema influenced gender dynamics in 1920s Shanghai.</a></li>
+          <li><a href="https://digitalcommons.georgiasouthern.edu/aujh/vol10/iss1/6/">Comparative research on religion as a political tool within various Chinese governments.</a></li>
         </ul>
       </section>
       <section id="contact-me">
