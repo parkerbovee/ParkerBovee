@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-  <style>
+  <head>
+    <style>
   h1 {
     font-family: Veranda;
   }
 </style>
-  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
