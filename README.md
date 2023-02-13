@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <title>My Personal Website</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
     <header>
-      <h1>Parker Jackson Bovée</h1>
+      <h1>Howdy! I'm Parker!</h1>
       <nav>
         <ul>
           <li><a href="#about-me">About Me</a></li>
