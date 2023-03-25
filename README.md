@@ -3,7 +3,7 @@
  <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
   <head>
-    <img src="IMG_2441.jpg" alt="Me and a tasty dinner!" align="right" width="200" height="300" style="border-radius: 50%" style="border: 5px solid white" style="box-shadow: 0 0 5px black">
+    <img src="IMG_2892.jpeg" alt="Me!" align="right" width="200" height="300" style="border-radius: 50%" style="border: 5px solid white" style="box-shadow: 0 0 5px black">
   </head>
   <body>
     <header>
