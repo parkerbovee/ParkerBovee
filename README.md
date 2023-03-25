@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <title>Me and a tasty dinner!</title>
+	<style>
+		img {
+			border-radius: 50%;
+			border: 5px solid white;
+			box-shadow: 0 0 5px black;
+		}
+	</style>
   </head>
   <body>
     <header>
