@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
  <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
@@ -12,14 +12,12 @@
         <li><a href="#about-me">About Me</a></li>
           <li><a href="#past-research">Past Research</a></li>
           <li><a href="#contact-me">Contact Me</a></li>
-        </ul>
       </nav>
     </header>
     <main>
       <section id="about-me">
         <h2>About Me</h2>
-        <p>Glad that you found my page! While you are here, let me introduce myself: I am a proud alumni of both UC Berkeley (Go Bears!) and Duke. I am a fourth generation Californian and committed to ensuring the state's economic and environmental future. </p>I consider myself as an out-of-the-box thinker and have previously used my skills to tackle nuanced problems such as wildfire, political divisiveness, and healthcare access in both political and business settings. In the future, I hope to marry my lifelong interest in entrepreneurship with passions for mission-driven service and environmental science in a start-up that utilizes all three areas! </p>Currently, I perform research for the <a href="https://www.cleantech.com/">Cleantech Group</a> where I work in sectors ranging from materials & chemicals to agriculture & food.
-        </p>
+        <p>Glad that you found my page! While you are here, let me introduce myself: I am a proud alumni of both UC Berkeley (Go Bears!) and Duke. I am a fourth generation Californian and committed to ensuring the state's economic and environmental future. </p>I consider myself as an out-of-the-box thinker and have previously used my skills to tackle nuanced problems such as wildfire, political divisiveness, and healthcare access in both political and business settings. In the future, I hope to marry my lifelong interest in entrepreneurship with passions for mission-driven service and environmental science in a start-up that utilizes all three areas! <p>Currently, I perform research for the <a href="https://www.cleantech.com/">Cleantech Group</a> where I work in sectors ranging from materials & chemicals to agriculture & food.
       </section>
       <section id="past-research">
         <h2>Past Research</h2>
@@ -38,7 +36,7 @@
       </section>
     </main>
     <footer>
-      <p>&copy; 2023 My Personal Website</p>
+      <p>&copy; Parker Jackson Bovée</p>
     </footer>
   </body>
 </html>
